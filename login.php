@@ -145,7 +145,7 @@ if(isset($_POST['submit']))
                                     <a href="#"> <img src="images/maestro.png" alt="Maestro"> </a>
                                 </li>
                                 <li>
-                                    <a href="#"> <img src="images/stripe.png" alt="Stripe"> </a>
+                                    <a href="#"> <img src="images/stripe.png" alt="Stripe logo displayed among other payment options in the website footer, set in a neutral and professional environment, text reads Stripe"> </a>
                                 </li>
                                 <li>
                                     <a href="#"> <img src="images/bitcoin.png" alt="Bitcoin"> </a>
