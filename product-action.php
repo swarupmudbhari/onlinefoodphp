@@ -1,4 +1,5 @@
 <?php
+// This is product action controller
 if(!empty($_GET["action"])) 
 {
 $productId = isset($_GET['id']) ? htmlspecialchars($_GET['id']) : '';
@@ -60,4 +61,4 @@ switch($_GET["action"])
 			header("location:checkout.php");
 			break;
 	}
-}
+} 
