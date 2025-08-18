@@ -27,7 +27,7 @@ switch($_GET["action"])
 									$_SESSION["cart_item"][$k]["quantity"] = 0;
 									}
 									$_SESSION["cart_item"][$k]["quantity"] += $quantity;
-								}
+								} 
 							}
 						}
 						else 
